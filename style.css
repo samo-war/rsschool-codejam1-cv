@@ -19,27 +19,6 @@ body {
     background-color: #363636;
 }
 
-.main-nav {
-    list-style: none;
-}
-
-.main-nav li {
-    text-transform: uppercase;
-}
-
-.main-nav a {
-    text-decoration: none;
-    color: white;
-}
-
-.main-nav a:hover {
-    text-decoration: underline;
-}
-
-.main-nav a:active {
-    color: rgba(255, 255, 255, 0.3);
-}
-
 .features ul {
     list-style: none;
 }
