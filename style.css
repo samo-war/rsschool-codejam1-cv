@@ -50,4 +50,9 @@ body {
 
 .page-footer {
     margin-top: 20px;
-}    
+}
+
+.footer-copyright {
+    color: #ffffff;
+    text-transform: uppercase;
+}
